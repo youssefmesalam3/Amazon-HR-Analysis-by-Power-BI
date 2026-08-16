@@ -154,3 +154,15 @@ This project demonstrates the use of **Power BI** to transform HR data into an i
 ## 📌 Conclusion
 
 The **Amazon HR Analysis Dashboard** provides a comprehensive view of employee performance, satisfaction, salary, promotions, projects, work accidents, and employee turnover. It enables HR teams and management to quickly identify important workforce trends and make more informed, data-driven decisions.
+
+---
+
+## 👨‍💻 Author
+Youssef Alaaeldin Mesalam
+Data Analyst | Power BI Developer
+
+📧 youssefmesalam488@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/youssef-mesalam-a8a78a2ab/?
+
+🔗 GitHub: https://github.com/youssefmesalam3
